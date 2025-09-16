@@ -1,16 +1,9 @@
 # cs4750_hw1_klondike
 
-A new Flutter project.
+For CS 4750 Mobile App Development
 
-## Getting Started
+As per tutorial: 
+[https://docs.flame-engine.org/latest/tutorials/klondike/klondike.html](url)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video demo link:
+[https://youtu.be/51nPFxfPl7c](url)
